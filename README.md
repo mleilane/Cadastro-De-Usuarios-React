@@ -1,6 +1,9 @@
 # Cadastro de Usuários Front-End
 Este projeto é a interface de front-end para a aplicação de gerenciamento de usuários. Ele permite cadastrar novos usuários e listar usuários existentes através de uma interface web. Este projeto se conecta a uma API RESTful construída com Node.js, Express, Cors e Prisma, utilizando MongoDB como banco de dados.
 
+## 🔗 Link para o Deploy: 
+* Veja a versão ao vivo do projeto aqui:<a href="https://react-cad-de-usuarios.netlify.app/"> Cadastro de Usuários </a>
+
 ## Tecnologias Utilizadas
 * React
 * Styled Components
@@ -42,7 +45,7 @@ Este projeto é a interface de front-end para a aplicação de gerenciamento de 
 
 
 ## API Back-End
-O link para o repositório do back-end pode ser encontrado  <a href="https://github.com/mleilane/Cadastro_De_Usuarios_API_RESTful_BDMongoDB" > aqui </a>.
+O link para o repositório do back-end pode ser encontrado  <a href="https://github.com/mleilane/API-Cadastro-De-Usuarios" > aqui </a>.
 
 ## Estrutura do Projeto
 ```sh
